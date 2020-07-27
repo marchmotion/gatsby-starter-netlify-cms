@@ -5,7 +5,7 @@ image: /img/vipul-jha-a4x1cdc1qac-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: WEB DEVELOPER AND FREELANCER
 mainpitch:
-  title: Why Kaldi
+  title: MARCHMOTION
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
